@@ -1,6 +1,6 @@
 # Typescript Assignment - 1 Solution
 
-## Nauman Khalid
+## Nauman Khalid - Senior Software Engineer
 
 ### Batch 58
 
